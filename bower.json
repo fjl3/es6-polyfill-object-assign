@@ -1,6 +1,6 @@
 {
   "name": "es6-polyfill-object-assign",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "homepage": "https://github.com/fjl3/es6-polyfill-object-assign",
   "authors": [
     "Francis Lichtenberger <repos@princetoncc.com>"
